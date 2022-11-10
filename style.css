@@ -11,9 +11,6 @@
     background-color: gold;
     justify-content: center;
 }
-h1 {
-    /* text-align: center; */
-}
 .img {
     height: 100px;
     width: 100px;
@@ -64,18 +61,13 @@ border: 2px solid green;
 }
 .garage {
     text-align: center;
-    /* margin-top: 200px; */
     
 }
-#garage {
-    /* margin-top: 200px; */
-    /* padding-top: 200px; */
-    
-}
+
 .my-class {
     color:aliceblue;
     margin-left: 200px;
-    /* margin-top: 250px; */
+    
 }
 .main-third {
     height: 500px;
@@ -89,23 +81,24 @@ border: 2px solid green;
     border-radius: 50%;
     background-color: black;
 }
-#main-3 {
-    
-}
+
 #img-3 {
     padding-top: 80px;
     border-radius: 50%;
     
 }
 #img-2 {
-    margin-left: 200px;
+    margin-left: 180px;
     padding-top: 50px;
-    border-radius: 100%;
-    background-color: black;
+    border-radius: 50%;
+    /* background-color: black; */
 }
 #img-1 {
     margin-left: 550px;
     padding-top: 10px;
+    background-color: gold;
+    color: gold;
+    border-radius: 50%;
 }
 .h1-h1 {
     color: black;
@@ -116,4 +109,16 @@ border: 2px solid green;
     text-align: center;
     color: aliceblue;
     margin-top: -25px;
+}
+.my-img-1 {
+    background-color: gold;
+}
+#my-id {
+    color: black;
+    text-align: center;
+    margin-left: 180px;
+}
+#my-id-1 {
+    text-align: center;
+    margin-left: 100px;
 }
